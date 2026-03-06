@@ -1,0 +1,3 @@
+class Closeable{
+	void close();
+}
